@@ -1,0 +1,7 @@
+C:\Users\Evan Sucher\Desktop\School\SENIOR YEAR\Algorithms\Repos\AlgorithmsTreeProject\AlgorihmsTree\AlgorihmsTree\bin\Debug\AlgorihmsTree.exe.config
+C:\Users\Evan Sucher\Desktop\School\SENIOR YEAR\Algorithms\Repos\AlgorithmsTreeProject\AlgorihmsTree\AlgorihmsTree\bin\Debug\AlgorihmsTree.exe
+C:\Users\Evan Sucher\Desktop\School\SENIOR YEAR\Algorithms\Repos\AlgorithmsTreeProject\AlgorihmsTree\AlgorihmsTree\bin\Debug\AlgorihmsTree.pdb
+C:\Users\Evan Sucher\Desktop\School\SENIOR YEAR\Algorithms\Repos\AlgorithmsTreeProject\AlgorihmsTree\AlgorihmsTree\obj\Debug\AlgorihmsTree.csprojAssemblyReference.cache
+C:\Users\Evan Sucher\Desktop\School\SENIOR YEAR\Algorithms\Repos\AlgorithmsTreeProject\AlgorihmsTree\AlgorihmsTree\obj\Debug\AlgorihmsTree.csproj.CoreCompileInputs.cache
+C:\Users\Evan Sucher\Desktop\School\SENIOR YEAR\Algorithms\Repos\AlgorithmsTreeProject\AlgorihmsTree\AlgorihmsTree\obj\Debug\AlgorihmsTree.exe
+C:\Users\Evan Sucher\Desktop\School\SENIOR YEAR\Algorithms\Repos\AlgorithmsTreeProject\AlgorihmsTree\AlgorihmsTree\obj\Debug\AlgorihmsTree.pdb
