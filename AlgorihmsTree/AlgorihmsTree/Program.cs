@@ -83,7 +83,29 @@ namespace AlgorihmsTree
                             }
                         case 3: //Add a Node
                             {
+                                Console.WriteLine("\nPlease enter the Content of the Node you want to add:");
+                                string inputNameString = Console.ReadLine();
 
+                                Console.WriteLine("\nPlease enter the ID of the Parent Node:");
+                                string inputStringID = Console.ReadLine();
+                                int inputID = 0;
+                                int.TryParse(inputStringID, out inputID);
+
+                                if (inputID > 0)
+                                {
+                                    Node tempNode = nameTree.GetNodeByID(inputID);
+                                    if (tempNode != null)
+                                    {
+                                        nameTree.AddNode(inputNameString, inputID);
+                                        Console.WriteLine("Succesfully added node");
+
+                                        waitToContinue();
+                                    }
+                                }
+                                else
+                                {
+
+                                }
 
                                 break;
                             }

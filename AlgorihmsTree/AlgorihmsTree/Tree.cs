@@ -37,9 +37,22 @@ namespace AlgorihmsTree
             return tempNodeList;
         }
 
-        public void AddNode(string inputName, int inputID)
+        public void AddNode(string inputName, int inputParentID)
         {
-            
+            Node parentNode = GetNodeByID(inputParentID);
+
+            if (parentNode != null)
+            {
+                int tempDepth = parentNode.depth + 8;
+                Node tempNode = new Node(globalID, inputName, tempDepth);
+                allNodes.Add(tempNode);
+                globalID++;
+            }
+            else
+            {
+                Console.WriteLine("Error: Parent Node ID not found");
+            }
+
         }
 
         // ==============================================================================================
